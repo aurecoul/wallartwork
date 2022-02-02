@@ -12,7 +12,7 @@ pip install pillow
 
 ## Usage
 
-Just run the Python script.
+Just run the [Python script](WallArtwork.py).
 
 ```bash
 python WallArtwork.py
